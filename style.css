@@ -292,7 +292,7 @@ nav .bi {
 @media only screen and (max-width:600px) {
     
     #header {
-        background-image: url("images/phone_bg.jpg");
+        background-image: url("phone_bg.jpg");
     }
 
     .header-text {
